@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Alessandro Vermeulen’s Bundle</string>
+	<string>UUAGC</string>
+	<key>contactName</key>
+	<string>Alessandro Vermeulen</string>
+	<key>contactEmail</key>
+	<string>alessandro.vermeulen@me.com</string>
 	<key>uuid</key>
 	<string>EEA9CC3A-358D-4FCD-A93D-6B03DC4A2A20</string>
 </dict>
