@@ -90,7 +90,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(attr|sem|syn|inh|@loc|@lhs|include)\b</string>
+			<string>(?i)\b(attr|sem|syn|inh|@loc|@lhs|include|module|data|imports|around|attach|type|pragma|self|use|deriving)\b</string>
 			<key>name</key>
 			<string>keyword.other.AttributeGrammer</string>
 		</dict>
