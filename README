@@ -1,0 +1,6 @@
+Clone into ~/Library/Application Support/TextMate for single user install, or
+/Library/Application Support/TextMate for system wide install. This requires the
+Haskell.tmbundle.
+
+I noticed that it currently isn't available on the TextMate Bundles SVN Trunk
+anymore. So you should maybe search some revisions. Otherwise contact me.
